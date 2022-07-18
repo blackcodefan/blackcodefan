@@ -7,7 +7,7 @@
 I have been working on several IT fields. My expertises are in WEB and MOBILE application development.<br/>
 I 💖 React.js, Angular, Vue, Next, Nuxt in front-end libraries and frameworks.
 <br/>
-I also 💖 django, laravel, nodejs, fastify, express, nest in backend librairies and frameworks.
+I also 💖 django, laravel, nodejs, fastify, express, nestjs in backend librairies and frameworks.
 <br/>
 For mobile application development, I fell in love with flutter and ionic.
 
