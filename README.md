@@ -1,5 +1,7 @@
 <img align="fluid" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/telera-f4440.appspot.com/o/github%2Fgithub-profile-banner.png?alt=media&token=8fbfce08-28d7-4a2e-bc8f-3fd7742775f1" width="100%" height="100%" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=blackcodefan&theme=onedark)](https://github.com/blackcodefan/github-profile-trophy)
+
 ## I am a professional Full stack developer.
 
 I have been working on several IT fields. My expertises are in WEB and MOBILE application development.<br/>
