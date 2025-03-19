@@ -19,5 +19,6 @@ For mobile application development, I fell in love with flutter and ionic.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 **My Stats**
+
 | [![github stats](https://githubstats-dun.vercel.app/api?username=blackcodefan&count_private=true&show_icons=true&theme=radical)](https://github.com/blackcodefan/) |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackcodefan&theme=dark)](https://github.com/blackcodefan) |
