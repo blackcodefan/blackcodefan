@@ -1,6 +1,6 @@
 <img align="fluid" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/telera-f4440.appspot.com/o/github%2Fgithub-profile-banner.png?alt=media&token=8fbfce08-28d7-4a2e-bc8f-3fd7742775f1" width="100%" height="100%" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=blackcodefan&theme=onedark)](https://github.com/blackcodefan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=blackcodefan&theme=onedark)](https://github.com/blackcodefan)
 
 ## I am a professional Full stack developer.
 
@@ -19,6 +19,5 @@ For mobile application development, I fell in love with flutter and ionic.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 **My Stats**
-
+| [![github stats](https://githubstats-dun.vercel.app/api?username=blackcodefan&count_private=true&show_icons=true&theme=radical)](https://github.com/blackcodefan/) |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackcodefan&theme=dark)](https://github.com/blackcodefan) |
-| ------------- |
