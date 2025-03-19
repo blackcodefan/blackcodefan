@@ -20,5 +20,5 @@ For mobile application development, I fell in love with flutter and ionic.
 
 **My Stats**
 
-| [![github stats](https://githubstats-dun.vercel.app/api?username=blackcodefan&count_private=true&show_icons=true&theme=radical)](https://github.com/blackcodefan/) |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackcodefan&theme=dark)](https://github.com/blackcodefan) |
+[![github stats](https://githubstats-dun.vercel.app/api?username=blackcodefan&count_private=true&show_icons=true&theme=radical)](https://github.com/blackcodefan/) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackcodefan&theme=dark)](https://github.com/blackcodefan)
